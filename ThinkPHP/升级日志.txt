@@ -1,0 +1,33 @@
+tp3.2.0升级到tp3.2.3步骤
+新增 ThinkPHP\Library\Org\Util\Auth.class.php
+新增 ThinkPHP\Library\Vendor\CCPRestSDK.php
+新增 ThinkPHP\Library\Vendor\CCPRestSmsSDK.php
+新增 ThinkPHP\Library\Vendor\csv.class.php
+新增 ThinkPHP\Library\Vendor\PinYin.class.php
+新增 ThinkPHP\Library\Vendor\Progress.class.php
+新增 ThinkPHP\Library\Vendor\SimpleHtmlDom.class.php
+新增 ThinkPHP\Library\Vendor\Snoopy.class.php
+新增 ThinkPHP\Library\Vendor\Verify.class.php
+新增 ThinkPHP\Library\Vendor\WebSocketClient.class.php
+新增 ThinkPHP\Library\Vendor\Wechat.class.php
+新增 ThinkPHP\Library\Vendor\AliMerchantPay
+新增 ThinkPHP\Library\Vendor\AliPay
+新增 ThinkPHP\Library\Vendor\AliRefund
+新增 ThinkPHP\Library\Vendor\JPush
+新增 ThinkPHP\Library\Vendor\PHPExcel
+新增 ThinkPHP\Library\Vendor\PHPMailer
+新增 ThinkPHP\Library\Vendor\phpqrcode
+新增 ThinkPHP\Library\Vendor\UCenter
+新增 ThinkPHP\Library\Vendor\UnionMerchantPay
+新增 ThinkPHP\Library\Vendor\UnionPay
+新增 ThinkPHP\Library\Vendor\Verify
+新增 ThinkPHP\Library\Vendor\WxPay
+新增 ThinkPHP\Library\Vendor\WxpayAPI
+新增 ThinkPHP\Library\Vendor\WxpayMerchantAPI
+
+修改 ThinkPHP\Library\Think\Log\Driver\File.class.php
+修改 ThinkPHP\Library\Think\Log.class.php
+修改 ThinkPHP\Library\Think\Model.class.php
+修改 ThinkPHP\Library\Think\Page.class.php
+修改 ThinkPHP\Library\Think\Upload.class.php
+
